@@ -1,0 +1,27 @@
+{
+  "name": "atquemolestias",
+  "version": "1.0.0",
+  "description": "Javascript implementation of the Unix crypt(3) DES-based hash",
+  "main": "unix-crypt-td.min.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShayneFranecki/atquemolestias.git"
+  },
+  "keywords": [
+    "crypt"
+  ],
+  "author": "EltaSwaniawski",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ShayneFranecki/atquemolestias.git/issues"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
